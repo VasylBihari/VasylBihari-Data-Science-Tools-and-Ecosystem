@@ -1,1 +1,1 @@
-# VasylBihari-Data-Science-Tools-and-Ecosystem
+# This repository contains lab work on the topic DataScienceEcosystem
